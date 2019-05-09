@@ -1,6 +1,6 @@
 # ChessAutoBattle
 
-Developed with Unreal Engine 4
+Developed with Unreal Engine 4.22.0
 
 A mobile game inspired by Auto Chess.
 
